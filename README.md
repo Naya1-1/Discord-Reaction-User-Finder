@@ -14,7 +14,7 @@
 
 1.  **安装管理器**：确保你的浏览器已安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展（Chrome / Edge / Firefox）。
 2.  **安装脚本**：
-    *   点击 [这里安装脚本](#) *(请替换为您的实际发布链接，如 GreasyFork 或 GitHub Raw 链接)*
+    *   点击 [这里安装脚本](https://github.com/Naya1-1/Discord-Reaction-User-Finder/raw/main/discord-reaction-checker.user.js)
     *   或者在 Tampermonkey 中创建一个新脚本，将 `discord-reaction-checker.user.js` 的代码完整复制进去并保存。
 3.  **刷新页面**：安装完成后，刷新 Discord 网页版即可生效。
 
