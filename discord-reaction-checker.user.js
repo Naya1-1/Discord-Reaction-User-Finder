@@ -2,7 +2,7 @@
 // @name         Discord 反应用户快速查找
 // @namespace    https://discord.com/
 // @version      1.0.0
-// @description  在“反应”弹窗中查找用户，支持全量加载/查看/复制完整名单（修复部分界面加载 0 人问题）
+// @description  在“反应”弹窗中查找用户查看用户有没有点赞，支持全量加载/查看/复制完整名单
 // @author       奈亚&ChatGPT
 // @match        https://discord.com/channels/*
 // @grant        none
